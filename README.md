@@ -7,6 +7,20 @@ L'application permet de :
     - Editer un produit
     - Mettre à jour un produit
     - Faire l'authentification et protéger les routes (en train de le faire)
+    Interface produits
+![image](https://github.com/bouhaoulihouda/angularActivity5/assets/102770511/6496b2f0-f85e-4e6d-a243-f943e644ef99)
+  Interface ajouter nouveau produit
+![image](https://github.com/bouhaoulihouda/angularActivity5/assets/102770511/193e7b93-c125-4dd5-a4ca-05ee1361a80f)
+La suppression d'un produit
+![image](https://github.com/bouhaoulihouda/angularActivity5/assets/102770511/4fcb9943-d7dc-4187-a108-6e5cf1383678)
+La recherche
+![image](https://github.com/bouhaoulihouda/angularActivity5/assets/102770511/85dc1db2-012e-40c0-9438-cfdcbd3d6a22)
+Editer Produit
+![image](https://github.com/bouhaoulihouda/angularActivity5/assets/102770511/9247bb7e-c96f-480e-984f-2abc9fa09a46)
+
+
+
+
 
 # EmsiApp
 
